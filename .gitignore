@@ -36,7 +36,7 @@
 *.blg
 *.log
 *.toc
-*.gz
+#*.gz
 *.bbl
 
 # cmake
